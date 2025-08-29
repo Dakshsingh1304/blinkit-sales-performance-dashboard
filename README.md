@@ -5,4 +5,4 @@ This project showcases an interactive Power BI dashboard analyzing Blinkit’s r
 - MS Excel / CSV – Data cleaning and preprocessing (if applicable)
 - DAX (Power BI) – For calculated measures and KPIs
 ## Project File Used
-- <a href="
+- <a href="https://github.com/Dakshsingh1304/blinkit-sales-performance-dashboard/blob/main/BlinkIT%20Project.pbix">Project File</a>
