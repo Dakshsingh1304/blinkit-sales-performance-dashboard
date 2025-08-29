@@ -1,4 +1,4 @@
-# blinkit-sales-performance-dashboard
+# blinkit-retail-performance-dashboard
 This project showcases an interactive Power BI dashboard analyzing Blinkit’s retail performance. It provides actionable insights into sales trends, product demand, outlet efficiency, and market penetration, helping businesses identify opportunities for growth and optimization.
 ## Tools Used
 - Power BI – Data visualization and dashboard development
