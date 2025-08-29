@@ -30,3 +30,6 @@ This project showcases an interactive Power BI dashboard analyzing Blinkit’s r
 - **Sales trend**: Revenue peaked in 2018 ($205K) but has stabilized around $130K since 2020, indicating slowed growth.
 
 - **Strategic opportunities**: Expand in Tier 3 markets, leverage Supermarket Type1 to boost low-performing categories, diversify product mix, and address the post-2020 sales plateau.
+
+## Final Conclusion
+The Blinkit Power BI dashboard provides a comprehensive overview of retail performance, highlighting key opportunities and challenges. Medium-size outlets and Tier 3 cities demonstrate strong growth potential, while Supermarket Type 1 remains the primary revenue driver. Low-fat products lead overall sales, whereas categories such as Breakfast and Seafood require focused improvement strategies. These insights enable data-driven decisions for market expansion, product diversification, and recovery from the post-2020 sales slowdown.
